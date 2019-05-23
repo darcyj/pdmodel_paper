@@ -1,0 +1,55 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/dev/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: pd_paper.aux
+The style file: vancouver.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=20001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: refs.bib
+Warning--empty author and editor in Sprockett2018
+Warning--missing publisher in Sprockett2018
+Warning--empty author and editor in Losos2008
+Warning--missing publisher in Losos2008
+You've used 47 entries,
+            3170 wiz_defined-function locations,
+            1016 strings with 18097 characters,
+and the built_in function-call counts, 111422 in all, are:
+= -- 13879
+> -- 808
+< -- 0
++ -- 490
+- -- 202
+* -- 9790
+:= -- 11871
+add.period$ -- 179
+call.type$ -- 47
+change.case$ -- 0
+chr.to.int$ -- 0
+cite$ -- 51
+duplicate$ -- 8340
+empty$ -- 10834
+format.name$ -- 241
+if$ -- 25962
+int.to.chr$ -- 0
+int.to.str$ -- 47
+missing$ -- 540
+newline$ -- 234
+num.names$ -- 47
+pop$ -- 837
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 964
+stack$ -- 0
+substring$ -- 23828
+swap$ -- 1197
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 4
+while$ -- 481
+width$ -- 49
+write$ -- 499
+(There were 4 warnings)
