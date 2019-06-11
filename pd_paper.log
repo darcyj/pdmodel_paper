@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.5.20)  23 MAY 2019 15:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.5.20)  11 JUN 2019 15:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -431,29 +431,29 @@ Underfull \hbox (badness 10000) in paragraph at lines 79--80
  []
 
 [3] [4] [5] [6] [7] [8] [9]
-<figs/Fig_1.pdf, id=309, 505.89pt x 505.89pt>
+<figs/Fig_1.pdf, id=315, 505.89pt x 505.89pt>
 File: figs/Fig_1.pdf Graphic file (type pdf)
 <use figs/Fig_1.pdf>
-Package pdftex.def Info: figs/Fig_1.pdf  used on input line 175.
+Package pdftex.def Info: figs/Fig_1.pdf  used on input line 173.
 (pdftex.def)             Requested size: 404.71254pt x 404.71254pt.
  [10 <./figs/Fig_1.pdf>]
-<figs/Fig_2.pdf, id=351, 440.97949pt x 482.80376pt>
+<figs/Fig_2.pdf, id=357, 440.97949pt x 482.80376pt>
 File: figs/Fig_2.pdf Graphic file (type pdf)
 <use figs/Fig_2.pdf>
-Package pdftex.def Info: figs/Fig_2.pdf  used on input line 182.
+Package pdftex.def Info: figs/Fig_2.pdf  used on input line 180.
 (pdftex.def)             Requested size: 352.78406pt x 386.24353pt.
  [11 <./figs/Fig_2.pdf>]
-<figs/Fig_3.pdf, id=386, 505.89pt x 505.89pt>
+<figs/Fig_3.pdf, id=392, 505.89pt x 505.89pt>
 File: figs/Fig_3.pdf Graphic file (type pdf)
 <use figs/Fig_3.pdf>
-Package pdftex.def Info: figs/Fig_3.pdf  used on input line 189.
+Package pdftex.def Info: figs/Fig_3.pdf  used on input line 187.
 (pdftex.def)             Requested size: 404.71254pt x 404.71254pt.
 
 [12 <./figs/Fig_3.pdf>]
-<figs/Fig_4.pdf, id=397, 481.8pt x 479.7925pt>
+<figs/Fig_4.pdf, id=403, 481.8pt x 479.7925pt>
 File: figs/Fig_4.pdf Graphic file (type pdf)
 <use figs/Fig_4.pdf>
-Package pdftex.def Info: figs/Fig_4.pdf  used on input line 196.
+Package pdftex.def Info: figs/Fig_4.pdf  used on input line 194.
 (pdftex.def)             Requested size: 385.4405pt x 383.8345pt.
  [13 <./figs/Fig_4.pdf>] (./pd_paper.bbl [14] [15]
 
@@ -463,7 +463,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.252 Cavender‚ÄêBares J, Ackerly D¬,
+l.259 Cavender‚ÄêBares J, Ackerly D¬,
                                       Baum D¬, Bazzaz F¬.
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -478,7 +478,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.252 Cavender‚ÄêBares J, Ackerly D¬, Baum D¬,
+l.259 Cavender‚ÄêBares J, Ackerly D¬, Baum D¬,
                                                Bazzaz F¬.
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -493,7 +493,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.252 ...êBares J, Ackerly D¬, Baum D¬, Bazzaz F¬.
+l.259 ...êBares J, Ackerly D¬, Baum D¬, Bazzaz F¬.
                                                   
 The document does not appear to be in UTF-8 encoding.
 Try adding \UseRawInputEncoding as the first line of the file
@@ -502,68 +502,70 @@ in the document preamble.
 Alternatively, save the file in UTF-8 using your editor or another tool
 
 ) [16]
-<figs/Fig_S1.pdf, id=444, 505.89pt x 505.89pt>
+<figs/Fig_S1.pdf, id=451, 505.89pt x 505.89pt>
 File: figs/Fig_S1.pdf Graphic file (type pdf)
 <use figs/Fig_S1.pdf>
-Package pdftex.def Info: figs/Fig_S1.pdf  used on input line 213.
+Package pdftex.def Info: figs/Fig_S1.pdf  used on input line 211.
 (pdftex.def)             Requested size: 404.71254pt x 404.71254pt.
  [17 <./figs/Fig_S1.pdf>]
-<figs/Fig_S2.pdf, id=477, 505.89pt x 505.89pt>
+<figs/Fig_S2.pdf, id=484, 505.89pt x 505.89pt>
 File: figs/Fig_S2.pdf Graphic file (type pdf)
 <use figs/Fig_S2.pdf>
-Package pdftex.def Info: figs/Fig_S2.pdf  used on input line 220.
+Package pdftex.def Info: figs/Fig_S2.pdf  used on input line 218.
 (pdftex.def)             Requested size: 404.71254pt x 404.71254pt.
  [18 <./figs/Fig_S2.pdf>]
-<figs/Fig_S3.pdf, id=512, 505.89pt x 505.89pt>
+<figs/Fig_S3.pdf, id=519, 505.89pt x 505.89pt>
 File: figs/Fig_S3.pdf Graphic file (type pdf)
 <use figs/Fig_S3.pdf>
-Package pdftex.def Info: figs/Fig_S3.pdf  used on input line 227.
+Package pdftex.def Info: figs/Fig_S3.pdf  used on input line 225.
 (pdftex.def)             Requested size: 404.71254pt x 404.71254pt.
  [19 <./figs/Fig_S3.pdf>]
-<figs/Fig_S4.pdf, id=545, 505.89pt x 505.89pt>
+<figs/Fig_S4.pdf, id=552, 505.89pt x 505.89pt>
 File: figs/Fig_S4.pdf Graphic file (type pdf)
 <use figs/Fig_S4.pdf>
-Package pdftex.def Info: figs/Fig_S4.pdf  used on input line 234.
+Package pdftex.def Info: figs/Fig_S4.pdf  used on input line 232.
 (pdftex.def)             Requested size: 404.71254pt x 404.71254pt.
  [20 <./figs/Fig_S4.pdf>]
-<figs/Fig_S5.pdf, id=556, 505.89pt x 505.89pt>
+<figs/Fig_S5.pdf, id=563, 505.89pt x 505.89pt>
 File: figs/Fig_S5.pdf Graphic file (type pdf)
 <use figs/Fig_S5.pdf>
-Package pdftex.def Info: figs/Fig_S5.pdf  used on input line 241.
+Package pdftex.def Info: figs/Fig_S5.pdf  used on input line 239.
 (pdftex.def)             Requested size: 404.71254pt x 404.71254pt.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 253.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 251.
  [21 <./figs/Fig_S5.pdf>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 253.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 251.
  (./pd_paper.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 253.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 253.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 251.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 251.
 Package rerunfilecheck Info: File `pd_paper.out' has not changed.
-(rerunfilecheck)             Checksum: BA05433748B66E010373E67915C4DFA0;1123.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 253.
+(rerunfilecheck)             Checksum: 07210AFFD45C656D79CE493E83C3A58F;1149.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 251.
  ) 
 Here is how much of TeX's memory you used:
- 7520 strings out of 494586
- 111738 string characters out of 6177802
- 213148 words of memory out of 5000000
- 10999 multiletter control sequences out of 15000+600000
- 6126 words of font info for 23 fonts, out of 8000000 for 9000
+ 7542 strings out of 494586
+ 111972 string characters out of 6177802
+ 213164 words of memory out of 5000000
+ 11011 multiletter control sequences out of 15000+600000
+ 8751 words of font info for 32 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 33i,6n,32p,1919b,574s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 33i,8n,32p,1944b,572s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texl
 ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/te
 xmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dis
 t/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts
-/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
-ublic/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
-s/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/c
-mtt10.pfb>
-Output written on pd_paper.pdf (21 pages, 1172127 bytes).
+/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
+7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/s
+hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on pd_paper.pdf (21 pages, 1202121 bytes).
 PDF statistics:
- 624 PDF objects out of 1000 (max. 8388607)
- 497 compressed objects within 5 object streams
- 90 named destinations out of 1000 (max. 500000)
+ 642 PDF objects out of 1000 (max. 8388607)
+ 511 compressed objects within 6 object streams
+ 92 named destinations out of 1000 (max. 500000)
  190 words of extra memory for PDF output out of 10000 (max. 10000000)
 
