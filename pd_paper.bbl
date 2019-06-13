@@ -157,8 +157,15 @@ Li SS, Zhu A, Benes V, Costea PI, Hercog R, Hildebrand F, et~al.
 Tett A, Huang KD, Asnicar F, Fehlner-Peach H, Pasolli E, Karcher N, et~al.
 \newblock The Prevotella copri complex comprises four distinct clades that are
   underrepresented in Westernised populations.
-\newblock bioRxiv. 2019;Available from:
-  \url{https://www.biorxiv.org/content/early/2019/04/09/600593}.
+\newblock bioRxiv. 2019;.
+
+\bibitem{Stecher2010}
+Stecher B, Chaffron S, K{\"{a}}ppeli R, Hapfelmeier S, Freedrich S, Weber TC,
+  et~al.
+\newblock {Like will to like: abundances of closely related species can predict
+  susceptibility to intestinal colonization by pathogenic and commensal
+  bacteria.}
+\newblock PLoS pathogens. 2010 jan;6(1):e1000711.
 
 \bibitem{Brown2018}
 Brown CT, Xiong W, Olm MR, Thomas BC, Baker R, Firek B, et~al.
@@ -256,7 +263,7 @@ Webb CO, Ackerly DD, McPeek MA, Donoghue MJ.
 \newblock Annual Review of Ecology and Systematics. 2002 nov;33(1):475--505.
 
 \bibitem{CavenderBares2004}
-Cavender‚ÄêBares J, Ackerly D¬, Baum D¬, Bazzaz F¬.
+Cavender-Bares J, Ackerly DD, Baum DA, Bazzaz FA.
 \newblock {Phylogenetic Overdispersion in Floridian Oak Communities}.
 \newblock The American Naturalist. 2004;.
 
@@ -277,6 +284,26 @@ Emerson BC, Gillespie RG.
 \newblock {Phylogenetic analysis of community assembly and structure over space
   and time.}
 \newblock Trends in ecology {\&} evolution. 2008 nov;23(11):619--30.
+
+\bibitem{Chatzidaki-Livanis3627}
+Chatzidaki-Livanis M, Geva-Zatorsky N, Comstock LE.
+\newblock Bacteroides fragilis type VI secretion systems use novel effector and
+  immunity proteins to antagonize human gut Bacteroidales species.
+\newblock Proceedings of the National Academy of Sciences.
+  2016;113(13):3627--3632.
+
+\bibitem{Hecht1281}
+Hecht AL, Casterline BW, Earley ZM, Goo YA, Goodlett DR, Bubeck~Wardenburg J.
+\newblock Strain competition restricts colonization of an enteric pathogen and
+  prevents colitis.
+\newblock EMBO reports. 2016;17(9):1281--1291.
+
+\bibitem{Morowitz1128}
+Morowitz MJ, Denef VJ, Costello EK, Thomas BC, Poroyko V, Relman DA, et~al.
+\newblock Strain-resolved community genomic analysis of gut microbial
+  colonization in a premature infant.
+\newblock Proceedings of the National Academy of Sciences.
+  2011;108(3):1128--1133.
 
 \bibitem{Shooner2015}
 Shooner S, Chisholm C, Davies TJ.
