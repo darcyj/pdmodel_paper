@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.5.20)  18 JUN 2019 16:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.5.20)  27 JUN 2019 13:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -448,57 +448,57 @@ Underfull \hbox (badness 10000) in paragraph at lines 84--85
  []
 
 [3] [4] [5] [6] [7] [8] [9]
-<figs/Fig_1.pdf, id=336, 505.89pt x 505.89pt>
+<figs/Fig_1.pdf, id=334, 505.89pt x 505.89pt>
 File: figs/Fig_1.pdf Graphic file (type pdf)
 <use figs/Fig_1.pdf>
 Package pdftex.def Info: figs/Fig_1.pdf  used on input line 183.
 (pdftex.def)             Requested size: 404.71254pt x 404.71254pt.
  [10 <./figs/Fig_1.pdf>]
-<figs/Fig_2.pdf, id=378, 440.97949pt x 482.80376pt>
+<figs/Fig_2.pdf, id=376, 440.97949pt x 482.80376pt>
 File: figs/Fig_2.pdf Graphic file (type pdf)
 <use figs/Fig_2.pdf>
 Package pdftex.def Info: figs/Fig_2.pdf  used on input line 190.
 (pdftex.def)             Requested size: 352.78406pt x 386.24353pt.
  [11 <./figs/Fig_2.pdf>]
-<figs/Fig_3.pdf, id=413, 505.89pt x 505.89pt>
+<figs/Fig_3.pdf, id=411, 505.89pt x 505.89pt>
 File: figs/Fig_3.pdf Graphic file (type pdf)
 <use figs/Fig_3.pdf>
 Package pdftex.def Info: figs/Fig_3.pdf  used on input line 197.
 (pdftex.def)             Requested size: 404.71254pt x 404.71254pt.
 
 [12 <./figs/Fig_3.pdf>]
-<figs/Fig_4.pdf, id=424, 481.8pt x 479.7925pt>
+<figs/Fig_4.pdf, id=422, 481.8pt x 479.7925pt>
 File: figs/Fig_4.pdf Graphic file (type pdf)
 <use figs/Fig_4.pdf>
 Package pdftex.def Info: figs/Fig_4.pdf  used on input line 204.
 (pdftex.def)             Requested size: 385.4405pt x 383.8345pt.
  [13 <./figs/Fig_4.pdf>] (./pd_paper.bbl [14] [15])
 [16]
-<figs/Fig_S1.pdf, id=471, 505.89pt x 505.89pt>
+<figs/Fig_S1.pdf, id=469, 505.89pt x 505.89pt>
 File: figs/Fig_S1.pdf Graphic file (type pdf)
 <use figs/Fig_S1.pdf>
 Package pdftex.def Info: figs/Fig_S1.pdf  used on input line 221.
 (pdftex.def)             Requested size: 404.71254pt x 404.71254pt.
  [17 <./figs/Fig_S1.pdf>]
-<figs/Fig_S2.pdf, id=504, 505.89pt x 505.89pt>
+<figs/Fig_S2.pdf, id=502, 505.89pt x 505.89pt>
 File: figs/Fig_S2.pdf Graphic file (type pdf)
 <use figs/Fig_S2.pdf>
 Package pdftex.def Info: figs/Fig_S2.pdf  used on input line 228.
 (pdftex.def)             Requested size: 404.71254pt x 404.71254pt.
  [18 <./figs/Fig_S2.pdf>]
-<figs/Fig_S3.pdf, id=540, 505.89pt x 505.89pt>
+<figs/Fig_S3.pdf, id=538, 505.89pt x 505.89pt>
 File: figs/Fig_S3.pdf Graphic file (type pdf)
 <use figs/Fig_S3.pdf>
 Package pdftex.def Info: figs/Fig_S3.pdf  used on input line 235.
 (pdftex.def)             Requested size: 404.71254pt x 404.71254pt.
  [19 <./figs/Fig_S3.pdf>]
-<figs/Fig_S4.pdf, id=572, 505.89pt x 505.89pt>
+<figs/Fig_S4.pdf, id=570, 505.89pt x 505.89pt>
 File: figs/Fig_S4.pdf Graphic file (type pdf)
 <use figs/Fig_S4.pdf>
 Package pdftex.def Info: figs/Fig_S4.pdf  used on input line 242.
 (pdftex.def)             Requested size: 404.71254pt x 404.71254pt.
 [20 <./figs/Fig_S4.pdf>]
-<figs/Fig_S5.pdf, id=583, 505.89pt x 505.89pt>
+<figs/Fig_S5.pdf, id=581, 505.89pt x 505.89pt>
 File: figs/Fig_S5.pdf Graphic file (type pdf)
 <use figs/Fig_S5.pdf>
 Package pdftex.def Info: figs/Fig_S5.pdf  used on input line 249.
@@ -535,10 +535,10 @@ m/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy1
 /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/s
 hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb></usr/share/te
 xlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on pd_paper.pdf (21 pages, 1215661 bytes).
+Output written on pd_paper.pdf (21 pages, 1439431 bytes).
 PDF statistics:
- 666 PDF objects out of 1000 (max. 8388607)
- 534 compressed objects within 6 object streams
+ 688 PDF objects out of 1000 (max. 8388607)
+ 541 compressed objects within 6 object streams
  97 named destinations out of 1000 (max. 500000)
  198 words of extra memory for PDF output out of 10000 (max. 10000000)
 
