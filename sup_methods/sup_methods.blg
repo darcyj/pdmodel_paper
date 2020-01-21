@@ -1,0 +1,50 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/dev/Debian)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: sup_methods.aux
+The style file: vancouverlink.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=20001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: refslink.bib
+You've used 9 entries,
+            3170 wiz_defined-function locations,
+            711 strings with 7554 characters,
+and the built_in function-call counts, 27675 in all, are:
+= -- 3412
+> -- 176
+< -- 0
++ -- 93
+- -- 44
+* -- 2538
+:= -- 2969
+add.period$ -- 36
+call.type$ -- 9
+change.case$ -- 0
+chr.to.int$ -- 0
+cite$ -- 9
+duplicate$ -- 1804
+empty$ -- 2727
+format.name$ -- 52
+if$ -- 6400
+int.to.chr$ -- 0
+int.to.str$ -- 9
+missing$ -- 108
+newline$ -- 48
+num.names$ -- 9
+pop$ -- 169
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 201
+stack$ -- 0
+substring$ -- 6435
+swap$ -- 221
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 97
+width$ -- 10
+write$ -- 98

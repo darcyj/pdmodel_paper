@@ -1,0 +1,2 @@
+pdfseparate -f 1 -l 4 ../figs_main.pdf ./fig%d.pdf
+

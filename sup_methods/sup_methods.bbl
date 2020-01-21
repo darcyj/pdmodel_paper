@@ -1,0 +1,59 @@
+\begin{thebibliography}{1}
+
+\bibitem{Koenig2011}
+Koenig JE, Spor A, Scalfone N, Fricker AD, Stombaugh J, Knight R, et~al.
+\newblock {Succession of microbial consortia in the developing infant gut
+  microbiome.}
+\newblock Proceedings of the National Academy of Sciences of the United States
+  of America. 2011 mar;108 Suppl(Supplement{\_}1):4578--85.
+
+\bibitem{Caporaso2010}
+Caporaso JG, Kuczynski J, Stombaugh J, Bittinger K, Bushman FD, Costello EK,
+  et~al.
+\newblock {QIIME allows analysis of high-throughput community sequencing data.}
+\newblock Nature methods. 2010 may;7(5):335--6.
+
+\bibitem{Edgar2016}
+Edgar RC.
+\newblock {UNOISE2: improved error-correction for Illumina 16S and ITS amplicon
+  sequencing}.
+\newblock bioRxiv. 2016;Available from:
+  \url{http://www.biorxiv.org/content/early/2016/10/15/081257}.
+
+\bibitem{Rognes2016}
+Rognes T, Flouri T, Nichols B, Quince C, Mah{\'{e}} F.
+\newblock {VSEARCH: a versatile open source tool for metagenomics}.
+\newblock PeerJ. 2016;4:e2409v1.
+
+\bibitem{Pruesse2012}
+Pruesse E, Peplies J, Gl{\"{o}}ckner FO.
+\newblock {SINA: Accurate high-throughput multiple sequence alignment of
+  ribosomal RNA genes}.
+\newblock Bioinformatics. 2012;28(14):1823--1829.
+
+\bibitem{Nguyen2015}
+Nguyen LT, Schmidt HA, {Von Haeseler} A, Minh BQ.
+\newblock {IQ-TREE: A fast and effective stochastic algorithm for estimating
+  maximum-likelihood phylogenies}.
+\newblock Molecular Biology and Evolution. 2015;.
+
+\bibitem{Caporaso2011}
+Caporaso JG, Lauber CL, Costello EK, Berg-Lyons D, Gonzalez A, Stombaugh J,
+  et~al.
+\newblock {Moving pictures of the human microbiome.}
+\newblock Genome biology. 2011 jan;12(5):R50.
+
+\bibitem{Yassour2016}
+Yassour M, Vatanen T, Siljander H, H{\"{a}}m{\"{a}}l{\"{a}}inen AM,
+  H{\"{a}}rk{\"{o}}nen T, Ryh{\"{a}}nen SJ, et~al.
+\newblock {Natural history of the infant gut microbiome and impact of
+  antibiotic treatment on bacterial strain diversity and stability}.
+\newblock Science Translational Medicine. 2016;.
+
+\bibitem{Guittar2019}
+Guittar J, Shade A, Litchman E.
+\newblock {Trait-based community assembly and succession of the infant gut
+  microbiome}.
+\newblock Nature Communications. 2019;.
+
+\end{thebibliography}

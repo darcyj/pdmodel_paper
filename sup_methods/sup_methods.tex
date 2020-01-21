@@ -1,0 +1,42 @@
+\documentclass{article}
+\usepackage[margin=25mm]{geometry} % 25 mm margins all around
+\usepackage{hyperref} % for hyperlinks
+\usepackage{enumitem} % for numbered lists
+\usepackage{changepage} % for narrow margins on title
+\usepackage{natbib} % for bibliography stuff
+\usepackage{indentfirst} % allows subsections to be indented
+\usepackage{mathtools} % for math stuff
+\usepackage{graphicx} % for pdf figures
+\usepackage{lineno} % allows for line numbers (see /linenumbers later)
+
+% \defbibenvironment{bibliography} % not sure why I had this in here, but it breaks stuff. works fine without it!
+\bibliographystyle{vancouverlink} % sets bibliography format (pkg: natbib)
+\setcitestyle{numbers,open={[},close={]}} % sets in-text citation format (pkg: natbib)
+\setcounter{secnumdepth}{0} % should get rid of section numbers
+% \linenumbers % do line numbering (pkg: lineno)
+
+
+% regular expression for removing internal links:
+% FIND: \\hyperref[.*?]
+% REPLACE: \\label{.*?}
+
+
+\begin{document}
+
+\subsection{Supplemental Analysis} \label{sec:analysis_supp}
+Infant gut 16S rDNA sequencing data from Koenig \emph{et al.} \cite{Koenig2011} were downloaded from the NCBI Short Read Archive (SRA) website (\url{http://www.ncbi.nlm.nih.gov/sra}) along with their metadata. These data are a time-series of fecal bacterial communities from an infant subject, over the first 500 days of life. QIIME \cite{Caporaso2010} was used to trim primer regions from these data. Clustering was performed using the unoise3 pipeline \cite{Edgar2016}; sequences were de-replicated at 100\% identity using VSEARCH \cite{Rognes2016}, zOTU centroid sequences were picked and chimeric sequences were removed using unoise3 \cite{Edgar2016}, then all sequences were mapped onto zOTU seeds to create a zOTU table using VSEARCH. zOTU stands for “zero-radius operational taxonomic unit” \cite{Edgar2016}. Unlike traditional \emph{de novo} clustered OTUs, zOTUs are exact sequence variants (ESVs) which are consistent and easily comparable across data. The SINA aligner \cite{Pruesse2012} was used to align zOTU centroid sequences to the SILVA SSU Ref 128 database (available from \url{https://www.arb-silva.de/download/arb-files/}). We then used IQ-TREE \cite{Nguyen2015} to build a phylogenetic tree from the aligned sequences.
+\par
+The resulting zOTU table was rarefied to 1000 sequences per sample, and samples with fewer sequences were excluded. The last five timepoints were excluded as well because they were sampled at a much lower temporal resolution. This left 52 timepoints spread over the first 469 days of the infant subject's life. The zOTU table was then split into two zOTU tables, one for timepoints before the infant started consuming baby formula, and one for those after. The “pre-formula” zOTU table contained ages 4 days through 146, and the “post-formula” zOTU table contained ages 161 days through 469 days. Each zOTU table was used to run our model as described above using 500 D values (\hyperref[sec:equation1]{Equation 1}), ranging from underdispersed (\(D = -5\)) to overdispersed (\(D = 5\)), using zOTUs in lieu of species. zOTUs with zero phylogenetic distance between them were combined, because these zOTUs were uninformative for our statistical model (\hyperref[sec:equation1]{Equation 1}; zero raised to a negative exponent is undefined). The 500 resulting surrogate datasets were compared to the empirical dataset as described above, using difference between phylodiversity values at the middle timepoint. The logistic error model (\hyperref[sec:equation2]{Equation 2}) was fit and bootstrapped, yielding an estimate for \(D\) and 95\% confidence intervals for that estimate.
+\par
+“Moving pictures” sequence data from Caporaso \emph{et al.} \cite{Caporaso2011} were downloaded from the MG-RAST database (\url{http://metagenomics.anl.gov/}). These are longitudinal data from one adult male subject and one adult female subject, over a period of several hundred days, across multiple sample sites (feces, both palms, tongue). timepoints were excluded which did not have sequence data for each of the 8 environments (left palm, right palm, mouth, and feces of the male and female subjects), and rarefied to 5000 sequences per sample. This left 107 timepoints, ranging from day 1 to day 185. Analysis for each dataset (e.g. female right palm) was carried out as described above, except raw sequences were trimmed to a length of 91 bp after the end of the forward PCR primer site in order to ensure that all raw sequences spanned the same region of the 16S rRNA gene. 91 bp was chosen as a length cutoff in order to keep 95\% of the sequence data (5\% of sequences were discarded because they were shorter).
+\par
+Analysis of the “moving pictures” data was also done using two approaches that allowed us to test the importance of the set of species that are included in the species pool. In principal, the model may perform differently if a broader representation of what is in the environment is in the species pool compared to what eventually colonizes the individual over time, as the latter may result in a species pool that is overall constrained by factors such as competition for niche space. Thus in an alternate approach we included sequences in the species pool from the other individual living in the same household, as these would be in the environment but not competing for the same niche. We analyzed palm communities in a “meta” context, where surrogate datasets were generated assuming the species pool for a given palm was composed of all four palms in the dataset. In this case, the difference between the “self” \(D\) estimate (generated above) and the “meta” \(D\) estimate (estimated with a metapopulation of zOTUs) is related to the exclusivity of species detected in the community. In other words, if we were to estimate similar \(D\) values for both the “meta” and “self” analyses, the inclusion of extra species in the species pool would be of little importance to the model, and we would learn that it would make little difference to community assembly patterns if the species pool really was composed of the “meta” set. We also analyzed a section of samples from the male right palm data that were collected every day over a period of 19 days, using a sliding window approach. We ran our model as described above on each window of 5 continuous days (15 windows), in order to see how \(D\) varied over time. We only conducted this analysis for the section of samples that were sampled every day, so that comparisons between windows would not be confounded by window size.
+\par
+Finnish infant sequence data from Yassour \emph{et al.} \cite{Yassour2016} and associated metadata were downloaded from the DIABIMMUNE Microbiome Project website (\url{https://pubs.broadinstitute.org/diabimmune}). These are longitudinal gut microbiome data from Finnish infants, collected over the first 36 months of life \cite{Yassour2016}. Roughly half of these infants were repeatedly treated with oral antibiotics, almost universally for ear infections. Metadata for this dataset were compiled in a different re-analysis of these data \cite{Guittar2019} and were downloaded from the authors’ GitHub page (\url{https://github.com/ShadeLab/microbiome_trait_succession}). Subject datasets belonging to the groups “Antibiotic” (\(n\)=18) or “Control” (\(n\)=15) were each analyzed using our model, similar to above. These subjects had between 19 and 36 samples collected over 36 months, with a mean of 28 samples. Sequence data were rarefied to 5000 sequences, and our model was run per above. We compared the estimated \(D\) values between antibiotic and control groups using a Mann-Whitney test. Because this dataset had so many subjects, we used this analysis as an opportunity to analyze whether the number of zOTUs, total phylodiversity, or number of timepoints had an effect on estimated \(D\) values. This was done via correlation analysis of \(D\) estimates with the aforementioned potential covariates.
+
+
+% REFERENCES
+\bibliography{refslink}
+
+
+\end{document}

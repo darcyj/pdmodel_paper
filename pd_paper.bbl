@@ -173,6 +173,17 @@ Brown CT, Xiong W, Olm MR, Thomas BC, Baker R, Firek B, et~al.
   Strains with Distinct Proteomic Profiles}.
 \newblock mBio. 2018 may;9(2):e00441--18.
 
+\bibitem{DAndrea2019}
+D'Andrea R, Riolo M, Ostling AM.
+\newblock {Generalizing clusters of similar species as a signature of
+  coexistence under competition"}.
+\newblock PloS Computational Biology. 2019 jan;15(1).
+
+\bibitem{Webb2002}
+Webb CO, Ackerly DD, McPeek MA, Donoghue MJ.
+\newblock {Phylogenies and Community Ecology}.
+\newblock Annual Review of Ecology and Systematics. 2002 nov;33(1):475--505.
+
 \bibitem{Lozupone2005}
 Lozupone C, Knight R.
 \newblock {UniFrac : a New Phylogenetic Method for Comparing Microbial
@@ -204,35 +215,12 @@ Faith DP.
 \newblock {Conservation evaluation and phylogenetic diversity}.
 \newblock Biological Conservation. 1992 jan;61(1):1--10.
 
-\bibitem{Caporaso2010}
-Caporaso JG, Kuczynski J, Stombaugh J, Bittinger K, Bushman FD, Costello EK,
-  et~al.
-\newblock {QIIME allows analysis of high-throughput community sequencing data.}
-\newblock Nature methods. 2010 may;7(5):335--6.
-
 \bibitem{Edgar2016}
 Edgar RC.
 \newblock {UNOISE2: improved error-correction for Illumina 16S and ITS amplicon
   sequencing}.
 \newblock bioRxiv. 2016;Available from:
   \url{http://www.biorxiv.org/content/early/2016/10/15/081257}.
-
-\bibitem{Rognes2016}
-Rognes T, Flouri T, Nichols B, Quince C, Mah{\'{e}} F.
-\newblock {VSEARCH: a versatile open source tool for metagenomics}.
-\newblock PeerJ. 2016;4:e2409v1.
-
-\bibitem{Pruesse2012}
-Pruesse E, Peplies J, Gl{\"{o}}ckner FO.
-\newblock {SINA: Accurate high-throughput multiple sequence alignment of
-  ribosomal RNA genes}.
-\newblock Bioinformatics. 2012;28(14):1823--1829.
-
-\bibitem{Nguyen2015}
-Nguyen LT, Schmidt HA, {Von Haeseler} A, Minh BQ.
-\newblock {IQ-TREE: A fast and effective stochastic algorithm for estimating
-  maximum-likelihood phylogenies}.
-\newblock Molecular Biology and Evolution. 2015;.
 
 \bibitem{Martiny2015}
 Martiny JBH, Jones SE, Lennon JT, Martiny AC.
@@ -245,22 +233,37 @@ V{\'{a}}zquez-Baeza Y, Callewaert C, Debelius J, Hyde E, Marotz C, Morton JT,
 \newblock {Impacts of the Human Gut Microbiome on Therapeutics}.
 \newblock Annual Review of Pharmacology and Toxicology. 2018;.
 
+\bibitem{Williamson761486}
+Williamson BD, Hughes JP, Willis AD.
+\newblock A multi-view model for relative and absolute microbial abundances.
+\newblock bioRxiv. 2019;Available from:
+  \url{https://www.biorxiv.org/content/early/2019/09/08/761486}.
+
+\bibitem{Mayfield2010}
+Mayfield MM, Levine JM.
+\newblock {Opposing effects of competitive exclusion on the phylogenetic
+  structure of communities}.
+\newblock Ecology Letters. 2010;.
+
 \bibitem{Wiens2010}
 Wiens JJ, Ackerly DD, Allen AP, Anacker BL, Buckley LB, Cornell HV, et~al.
 \newblock {Niche conservatism as an emerging principle in ecology and
   conservation biology}.
 \newblock Ecology Letters. 2010 oct;13(10):1310--1324.
 
+\bibitem{Scheffer6230}
+Scheffer M, van Nes EH.
+\newblock Self-organized similarity, the evolutionary emergence of groups of
+  similar species.
+\newblock Proceedings of the National Academy of Sciences.
+  2006;103(16):6230--6235.
+\newblock Available from: \url{https://www.pnas.org/content/103/16/6230}.
+
 \bibitem{Webb2000}
 Webb CO.
 \newblock {Exploring the Phylogenetic Structure of Ecological Communities: An
   Example for Rain Forest Trees.}
 \newblock The American naturalist. 2000 aug;156(2):145--155.
-
-\bibitem{Webb2002}
-Webb CO, Ackerly DD, McPeek MA, Donoghue MJ.
-\newblock {Phylogenies and Community Ecology}.
-\newblock Annual Review of Ecology and Systematics. 2002 nov;33(1):475--505.
 
 \bibitem{CavenderBares2004}
 Cavender-Bares J, Ackerly DD, Baum DA, Bazzaz FA.
@@ -298,17 +301,19 @@ Hecht AL, Casterline BW, Earley ZM, Goo YA, Goodlett DR, Bubeck~Wardenburg J.
   prevents colitis.
 \newblock EMBO reports. 2016;17(9):1281--1291.
 
+\bibitem{Sakavara738}
+Sakavara A, Tsirtsis G, Roelke DL, Mancy R, Spatharis S.
+\newblock Lumpy species coexistence arises robustly in fluctuating resource
+  environments.
+\newblock Proceedings of the National Academy of Sciences.
+  2018;115(4):738--743.
+\newblock Available from: \url{https://www.pnas.org/content/115/4/738}.
+
 \bibitem{Morowitz1128}
 Morowitz MJ, Denef VJ, Costello EK, Thomas BC, Poroyko V, Relman DA, et~al.
 \newblock Strain-resolved community genomic analysis of gut microbial
   colonization in a premature infant.
 \newblock Proceedings of the National Academy of Sciences.
   2011;108(3):1128--1133.
-
-\bibitem{Shooner2015}
-Shooner S, Chisholm C, Davies TJ.
-\newblock {The phylogenetics of succession can guide restoration: an example
-  from abandoned mine sites in the subarctic}.
-\newblock Journal of Applied Ecology. 2015 dec;52(6):1509--1517.
 
 \end{thebibliography}
