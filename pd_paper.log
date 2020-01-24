@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2019/dev/Debian) (preloaded format=xelatex 2019.5.20)  23 JAN 2020 18:10
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2019/dev/Debian) (preloaded format=xelatex 2019.5.20)  24 JAN 2020 15:33
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -468,23 +468,23 @@ File: figs/Fig_S4.pdf Graphic file (type pdf)
  [20]
 File: figs/Fig_S5.pdf Graphic file (type pdf)
 <use figs/Fig_S5.pdf>
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 271.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 270.
  [21]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 271.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 270.
  (./pd_paper.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 271.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 271.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 270.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 270.
 Package rerunfilecheck Info: File `pd_paper.out' has not changed.
-(rerunfilecheck)             Checksum: 88E747E929AAA9C1362F416FCB8FC089.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 271.
+(rerunfilecheck)             Checksum: 10604CECAFC4D644CCFE9D48A5042798.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 270.
  ) 
 Here is how much of TeX's memory you used:
  10637 strings out of 494950
  151622 string characters out of 6177956
- 253801 words of memory out of 5000000
+ 253800 words of memory out of 5000000
  14433 multiletter control sequences out of 15000+600000
  4542 words of font info for 28 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 33i,6n,45p,1995b,593s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 33i,6n,45p,1997b,593s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on pd_paper.xdv (21 pages, 559656 bytes).
+Output written on pd_paper.xdv (21 pages, 560076 bytes).
