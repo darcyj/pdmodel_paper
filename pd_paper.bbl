@@ -1,93 +1,10 @@
 \begin{thebibliography}{10}
 
-\bibitem{Palmer1997}
-Palmer MA, Ambrose RF, Poff NL.
-\newblock {Ecological Theory and Community Restoration Ecology}.
-\newblock Restoration Ecology. 1997 dec;5(4):291--300.
-
-\bibitem{Temperton2004}
-Temperton VM.
-\newblock {Assembly Rules and Restoration Ecology: Bridging the Gap Between
-  Theory and Practice}.
-\newblock Island Press; 2004.
-
-\bibitem{Richards1999}
-Richards SA, Possingham HP, Tizard J.
-\newblock {Optimal fire management for maintaining community diversity}.
-\newblock Ecological Applications. 1999 aug;9(3):880--892.
-
-\bibitem{Bengtsson2000}
-Bengtsson J, Nilsson SG, Franc A, Menozzi P.
-\newblock {Biodiversity, disturbances, ecosystem function and management of
-  European forests}.
-\newblock Forest Ecology and Management. 2000 jun;132(1):39--50.
-
-\bibitem{ODwyer2012}
-O'Dwyer JP, Kembel SW, Green JL.
-\newblock {Phylogenetic diversity theory sheds light on the structure of
-  microbial communities.}
-\newblock PLoS computational biology. 2012 jan;8(12):e1002832.
-
-\bibitem{Goberna2014}
-Goberna M, Navarro-Cano JA, Valiente-Banuet A, Garc{\'{i}}a C, Verd{\'{u}} M.
-\newblock {Abiotic stress tolerance and competition-related traits underlie
-  phylogenetic clustering in soil bacterial communities.}
-\newblock Ecology letters. 2014 oct;17(10):1191--201.
-
-\bibitem{Koenig2011}
-Koenig JE, Spor A, Scalfone N, Fricker AD, Stombaugh J, Knight R, et~al.
-\newblock {Succession of microbial consortia in the developing infant gut
-  microbiome.}
-\newblock Proceedings of the National Academy of Sciences of the United States
-  of America. 2011 mar;108 Suppl(Supplement{\_}1):4578--85.
-
-\bibitem{Frank2007}
-Frank DN, Harpaz N, {St  Amand} AL, Pace NR, Feldman RA, Boedeker EC.
-\newblock {Molecular-phylogenetic characterization of microbial community
-  imbalances in human inflammatory bowel diseases}.
-\newblock Proceedings of the National Academy of Sciences. 2007;.
-
-\bibitem{David2014}
-David LA, Materna AC, Friedman J, Campos-Baptista MI, Blackburn MC, Perrotta A,
-  et~al.
-\newblock {Host lifestyle affects human microbiota on daily timescales.}
-\newblock Genome biology. 2014 jan;15(7):R89.
-
-\bibitem{Peterfreund2012}
-Peterfreund GL, Vandivier LE, Sinha R, Marozsan AJ, Olson WC, Zhu J, et~al.
-\newblock {Succession in the gut microbiome following antibiotic and antibody
-  therapies for Clostridium difficile.}
-\newblock PloS one. 2012 jan;7(10):e46966.
-
-\bibitem{Kennedy2016}
-Kennedy RC, Fling RR, Robeson MS, Saxton AM, Donnell RL, Darcy JL, et~al.
-\newblock {Temporal Development of Gut Microbiota in Triclocarban Exposed
-  Pregnant and Neonatal Rats.}
-\newblock Scientific reports. 2016;6:33430.
-
-\bibitem{Guittar2019}
-Guittar J, Shade A, Litchman E.
-\newblock {Trait-based community assembly and succession of the infant gut
-  microbiome}.
-\newblock Nature Communications. 2019;.
-
-\bibitem{Caporaso2011}
-Caporaso JG, Lauber CL, Costello EK, Berg-Lyons D, Gonzalez A, Stombaugh J,
-  et~al.
-\newblock {Moving pictures of the human microbiome.}
-\newblock Genome biology. 2011 jan;12(5):R50.
-
 \bibitem{Nemergut2013}
 Nemergut DR, Schmidt SK, Fukami T, O'Neill SP, Bilinski TM, Stanish LF, et~al.
 \newblock {Patterns and processes of microbial community assembly.}
 \newblock Microbiology and molecular biology reviews : MMBR. 2013
   sep;77(3):342--56.
-
-\bibitem{Nemergut2016}
-Nemergut DR, Knelman JE, Ferrenberg S, Bilinski T, Melbourne B, Jiang L, et~al.
-\newblock {Decreases in average bacterial community rRNA operon copy number
-  during succession}.
-\newblock The ISME Journal. 2016 may;10(5):1147--1156.
 
 \bibitem{Sprockett2018}
 Sprockett D, Fukami T, Relman DA. {Role of priority effects in the early-life
@@ -122,6 +39,18 @@ Langille MGI, Zaneveld J, Caporaso JG, McDonald D, Knights D, Reyes JA, et~al.
 \newblock {Predictive functional profiling of microbial communities using 16S
   rRNA marker gene sequences}.
 \newblock Nature Biotechnology. 2013 aug;31(9):814--821.
+
+\bibitem{Wiens2010}
+Wiens JJ, Ackerly DD, Allen AP, Anacker BL, Buckley LB, Cornell HV, et~al.
+\newblock {Niche conservatism as an emerging principle in ecology and
+  conservation biology}.
+\newblock Ecology Letters. 2010 oct;13(10):1310--1324.
+
+\bibitem{Pyron2015}
+Pyron RA, Costa GC, Patten MA, Burbrink FT.
+\newblock {Phylogenetic niche conservatism and the evolutionary basis of
+  ecological speciation}.
+\newblock Biological Reviews. 2015;.
 
 \bibitem{Losos2008}
 Losos JB. {Phylogenetic niche conservatism, phylogenetic signal and the
@@ -179,10 +108,23 @@ D'Andrea R, Riolo M, Ostling AM.
   coexistence under competition"}.
 \newblock PloS Computational Biology. 2019 jan;15(1).
 
+\bibitem{Mayfield2010}
+Mayfield MM, Levine JM.
+\newblock {Opposing effects of competitive exclusion on the phylogenetic
+  structure of communities}.
+\newblock Ecology Letters. 2010;.
+
 \bibitem{Webb2002}
 Webb CO, Ackerly DD, McPeek MA, Donoghue MJ.
 \newblock {Phylogenies and Community Ecology}.
 \newblock Annual Review of Ecology and Systematics. 2002 nov;33(1):475--505.
+
+\bibitem{Yassour2016}
+Yassour M, Vatanen T, Siljander H, H{\"{a}}m{\"{a}}l{\"{a}}inen AM,
+  H{\"{a}}rk{\"{o}}nen T, Ryh{\"{a}}nen SJ, et~al.
+\newblock {Natural history of the infant gut microbiome and impact of
+  antibiotic treatment on bacterial strain diversity and stability}.
+\newblock Science Translational Medicine. 2016;.
 
 \bibitem{Lozupone2005}
 Lozupone C, Knight R.
@@ -203,12 +145,18 @@ Matsen FA, Evans SN, Gilks W, Ghodsi M, Kingsford C.
   Structure of Phylogenetic Placement Data for Sample Comparison}.
 \newblock PLoS ONE. 2013 mar;8(3):e56859.
 
-\bibitem{Yassour2016}
-Yassour M, Vatanen T, Siljander H, H{\"{a}}m{\"{a}}l{\"{a}}inen AM,
-  H{\"{a}}rk{\"{o}}nen T, Ryh{\"{a}}nen SJ, et~al.
-\newblock {Natural history of the infant gut microbiome and impact of
-  antibiotic treatment on bacterial strain diversity and stability}.
-\newblock Science Translational Medicine. 2016;.
+\bibitem{Caporaso2011}
+Caporaso JG, Lauber CL, Costello EK, Berg-Lyons D, Gonzalez A, Stombaugh J,
+  et~al.
+\newblock {Moving pictures of the human microbiome.}
+\newblock Genome biology. 2011 jan;12(5):R50.
+
+\bibitem{Koenig2011}
+Koenig JE, Spor A, Scalfone N, Fricker AD, Stombaugh J, Knight R, et~al.
+\newblock {Succession of microbial consortia in the developing infant gut
+  microbiome.}
+\newblock Proceedings of the National Academy of Sciences of the United States
+  of America. 2011 mar;108 Suppl(Supplement{\_}1):4578--85.
 
 \bibitem{Faith1992}
 Faith DP.
@@ -232,24 +180,6 @@ V{\'{a}}zquez-Baeza Y, Callewaert C, Debelius J, Hyde E, Marotz C, Morton JT,
   et~al.
 \newblock {Impacts of the Human Gut Microbiome on Therapeutics}.
 \newblock Annual Review of Pharmacology and Toxicology. 2018;.
-
-\bibitem{Williamson761486}
-Williamson BD, Hughes JP, Willis AD.
-\newblock A multi-view model for relative and absolute microbial abundances.
-\newblock bioRxiv. 2019;Available from:
-  \url{https://www.biorxiv.org/content/early/2019/09/08/761486}.
-
-\bibitem{Mayfield2010}
-Mayfield MM, Levine JM.
-\newblock {Opposing effects of competitive exclusion on the phylogenetic
-  structure of communities}.
-\newblock Ecology Letters. 2010;.
-
-\bibitem{Wiens2010}
-Wiens JJ, Ackerly DD, Allen AP, Anacker BL, Buckley LB, Cornell HV, et~al.
-\newblock {Niche conservatism as an emerging principle in ecology and
-  conservation biology}.
-\newblock Ecology Letters. 2010 oct;13(10):1310--1324.
 
 \bibitem{Scheffer6230}
 Scheffer M, van Nes EH.
@@ -287,6 +217,30 @@ Emerson BC, Gillespie RG.
 \newblock {Phylogenetic analysis of community assembly and structure over space
   and time.}
 \newblock Trends in ecology {\&} evolution. 2008 nov;23(11):619--30.
+
+\bibitem{Peterfreund2012}
+Peterfreund GL, Vandivier LE, Sinha R, Marozsan AJ, Olson WC, Zhu J, et~al.
+\newblock {Succession in the gut microbiome following antibiotic and antibody
+  therapies for Clostridium difficile.}
+\newblock PloS one. 2012 jan;7(10):e46966.
+
+\bibitem{David2014}
+David LA, Materna AC, Friedman J, Campos-Baptista MI, Blackburn MC, Perrotta A,
+  et~al.
+\newblock {Host lifestyle affects human microbiota on daily timescales.}
+\newblock Genome biology. 2014 jan;15(7):R89.
+
+\bibitem{Kennedy2016}
+Kennedy RC, Fling RR, Robeson MS, Saxton AM, Donnell RL, Darcy JL, et~al.
+\newblock {Temporal Development of Gut Microbiota in Triclocarban Exposed
+  Pregnant and Neonatal Rats.}
+\newblock Scientific reports. 2016;6:33430.
+
+\bibitem{Williamson761486}
+Williamson BD, Hughes JP, Willis AD.
+\newblock A multi-view model for relative and absolute microbial abundances.
+\newblock bioRxiv. 2019;Available from:
+  \url{https://www.biorxiv.org/content/early/2019/09/08/761486}.
 
 \bibitem{Chatzidaki-Livanis3627}
 Chatzidaki-Livanis M, Geva-Zatorsky N, Comstock LE.
